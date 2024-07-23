@@ -11,7 +11,7 @@ Requirements:
 -----------------------------------------------------------------------------------------------------------------
 Task 2 : Find Maximum and Minimum
 
-Description: Write a function that finds the maximum and minimum values in an array
+Description: Write a function that finds the maximum and minimum values in an array.
 -----------------------------------------------------------------------------------------------------------------
 
 
